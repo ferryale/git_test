@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, whole wide world!, v2, refactor");
+    println!("Hello, whole wide world!, v2, refactor. New sentence");
 }
